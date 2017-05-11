@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/AddPicView/addpicview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="228355b66f40f45b300f939f54f496c1c5398a0c">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/AddPicView-addpicview-unspecified_7f384a0d9f66b7f277752c73dc06e3efbda69a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_77733307f47945695f8e736725547ec4cf88de73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_159123b8c5a16d202e240c5a22adefde51240439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_497e67fd541995ea3193aea2999d7db1cc8170e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_fbdcdcf80882e322af13279da09d11e79aadd35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_207a240c442ac94f162c598e8ef3bf383ef27574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_b99e34d88b918218e29caab6fa6709cf299527d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_51ac40d07a3799033519f79e334358a0482ed4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/MyApplication3/addpicview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="228355b66f40f45b300f939f54f496c1c5398a0c">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/MyApplication3-addpicview-unspecified_2db3c6e32f724a75f6dbaf1a1dd68d803adc1cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/glide-3.8.0_efaf0d4d76e6e6488ce2a31181dd05086df3ddcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_eadc3767a20f135c254cfc412c88bd7e344afd61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_7ed022afc9feb3dad4ba204799f72107f051f000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_2a5a82b7a5e60e300a8bece5d70001918e0014ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_3dbd9b21b4b6c597672000f5432f088c29895840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_73a9654fa79ddca800436fb0255e45afba979bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_97d1011c16293d649d1c6393f372bcbfb43239de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_820c8ccf18bc28d0713b8d0b5ef1537ca5d9915b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_397dbea4f5d9f7ad79dc8b0b271528eb55b5d39c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/DevTools/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f2f5482e3a0499ea21d3c5b63ca6ca12c95cfaf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_5adc8600ea09f7073ab7a3d2c91c5a68513829b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yzy/AndroidStudioProjects/AddPicView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_0da84f0f1d4dad3b431e3ac3f92b56c08b4a4f14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yzy/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_dd72c6fc91def38e5b48592bee0876439f84bde8.jar" />
+    </item>
+
+</items>
