@@ -22,7 +22,7 @@
         android:layout_alignParentTop="true"
         android:layout_width="15dp"
         android:layout_height="15dp"
-        android:background="@drawable/report_delete_icon"/>
+        android:background="@drawable/report_delete_icon2"/>
 
 
 

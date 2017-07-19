@@ -38,7 +38,7 @@ public class GridViewAdapter extends BaseViewHolderAdapter<Uri, Viewholder> {
     @Override
     public void bindDataToView(Viewholder holder, Uri pUri, final int position) {
 //        ImageLoader.getInstance().displayImage(mCtx, pUri, R.drawable.add_pic_icon, holder.iv);
-        Glide.with(mCtx).load(pUri).error(R.drawable.add_pic_icon).into(holder.iv);
+        Glide.with(mCtx).load(pUri).error(R.drawable.add_pic_icon2).into(holder.iv);
         holder.iv.setOnClickListener(null);
         holder.bt.setVisibility(View.VISIBLE);
         holder.bt.setOnClickListener(new View.OnClickListener() {

@@ -20,7 +20,7 @@ import java.util.ArrayList;
 public class AddPicView extends RelativeLayout implements AddPicCallBack {
 
     private Context mContext;
-    private GridView mGridView;
+    private ScallerGridView mGridView;
     private TextView addText;
     private GridViewAdapter mAdapter;
     private ArrayList<Uri> listData;//最终我们要选择的图片的uri都在这个集合里面
@@ -39,7 +39,7 @@ public class AddPicView extends RelativeLayout implements AddPicCallBack {
         TypedArray vArray = getResources().obtainAttributes(attrs, R.styleable.AddPicView);
         int numColumns = vArray.getInteger(R.styleable.AddPicView_numColumns, 4);
         View vView = LayoutInflater.from(context).inflate(R.layout.addpicview, this, true);
-        mGridView = (GridView) vView.findViewById(R.id.pic_gridview);
+        mGridView = (ScallerGridView) vView.findViewById(R.id.pic_gridview);
         mGridView.setNumColumns(numColumns);
         addText = (TextView) findViewById(R.id.add_img);
         mAdapter = new GridViewAdapter(context, this);
