@@ -6,7 +6,7 @@
 5、控件默认是4列，可选8张图，点击加号默认打开系统相册。  
 调用setMaxCounts（）方法可以设置图片数量;  
 调用setCustomClickCallBack（）方法可以修改点击加号后的响应事件，如去拍照;  
-调用setNumColumns（）方法可以修改列数，也可以在布局文件中使用numcolums自定义属性设置列数  
+调用setNumColumns（）方法可以修改列数，也可以在布局文件中使用numcolums自定义属性设置列数  
 6、有任何疑问欢迎发邮件到yzytmac@163.com 欢迎提交代码   
 
 
