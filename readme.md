@@ -8,7 +8,8 @@
 调用setCustomClickCallBack（）方法可以修改点击加号后的响应事件，如去拍照;  
 调用setNumColumns（）方法可以修改列数，也可以在布局文件中使用numcolums自定义属性设置列数  
 6、有任何疑问欢迎发邮件到yzytmac@163.com 欢迎提交代码   
-
+- 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
+![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
 
 - 效果图  
 ![](https://raw.githubusercontent.com/yzytmac/AddPicView/master/device-2017-05-11-135700.png)
